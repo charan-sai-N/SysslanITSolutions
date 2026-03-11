@@ -1,0 +1,2 @@
+mail_id = '@gmail.com'
+user_input
